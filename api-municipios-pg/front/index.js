@@ -40,3 +40,7 @@ async function inserir() {
         console.error("deu ruim", erro.message)
     }
 }
+
+async function deletar(){
+    
+}
